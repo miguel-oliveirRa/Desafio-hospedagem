@@ -1,0 +1,14 @@
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\bin\Debug\net8.0\hospedagem.exe
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\bin\Debug\net8.0\hospedagem.deps.json
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\bin\Debug\net8.0\hospedagem.runtimeconfig.json
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\bin\Debug\net8.0\hospedagem.dll
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\bin\Debug\net8.0\hospedagem.pdb
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfoInputs.cache
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\hospedagem.AssemblyInfo.cs
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\hospedagem.dll
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\refint\hospedagem.dll
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\hospedagem.pdb
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\hospedagem.genruntimeconfig.cache
+C:\Users\Miguel\dio\CSharp-dio\C-sharp\hospedagem\obj\Debug\net8.0\ref\hospedagem.dll
